@@ -29,10 +29,10 @@
 <div class="col-md-4">
 
  		 <div class="form-group">
-		<h5>Year <span class="text-danger"> </span></h5>
+		<h5>Batch No. <span class="text-danger"> </span></h5>
 		<div class="controls">
 	 <select name="year_id" id="year_id" required="" class="form-control">
-			<option value="" selected="" disabled="">Select Year</option>
+			<option value="" selected="" disabled="">Select Batch</option>
 			 @foreach($years as $year)
  <option value="{{ $year->id }}" >{{ $year->name }}</option>
 		 	@endforeach

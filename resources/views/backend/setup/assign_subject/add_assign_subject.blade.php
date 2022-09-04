@@ -29,7 +29,7 @@
 						 
 
  	<div class="form-group">
-	<h5>Class Name <span class="text-danger">*</span></h5>
+	<h5>Batch No. <span class="text-danger">*</span></h5>
 	<div class="controls">
 	 <select name="class_id" required="" class="form-control">
 		<option value="" selected="" disabled="">Select Class</option>

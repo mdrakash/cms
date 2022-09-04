@@ -17,7 +17,7 @@
 
 			 <div class="box">
 				<div class="box-header with-border">
-				  <h3 class="box-title">Student Year List</h3>
+				  <h3 class="box-title">Student Session List</h3>
 	<a href="{{ route('student.year.add') }}" style="float: right;" class="btn btn-rounded btn-success mb-5"> Add Student Year</a>			  
 
 				</div>

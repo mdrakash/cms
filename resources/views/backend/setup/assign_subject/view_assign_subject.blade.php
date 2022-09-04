@@ -28,7 +28,7 @@
 						<thead>
 			<tr>
 				<th width="5%">SL</th>  
-				<th>Class Name</th> 
+				<th>Batch No</th> 
 				<th width="25%">Action</th>
 				 
 			</tr>

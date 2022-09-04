@@ -17,8 +17,8 @@
 
 			 <div class="box">
 				<div class="box-header with-border">
-				  <h3 class="box-title">Student Class List</h3>
-	<a href="{{ route('student.class.add') }}" style="float: right;" class="btn btn-rounded btn-success mb-5"> Add Student Class</a>			  
+				  <h3 class="box-title">Student Batch List</h3>
+	<a href="{{ route('student.class.add') }}" style="float: right;" class="btn btn-rounded btn-success mb-5"> Add Student Batch</a>			  
 
 				</div>
 				<!-- /.box-header -->

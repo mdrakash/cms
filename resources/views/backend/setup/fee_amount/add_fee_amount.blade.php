@@ -47,7 +47,7 @@
      	<div class="col-md-5">
 
    <div class="form-group">
-	<h5>Student Class <span class="text-danger">*</span></h5>
+	<h5>Student Batch <span class="text-danger">*</span></h5>
 	<div class="controls">
 	 <select name="class_id[]" required="" class="form-control">
 		<option value="" selected="" disabled="">Select Fee Category</option>
